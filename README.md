@@ -17,7 +17,6 @@ A simple technical analysis strategy that simulates buying and selling a stock (
   - Trade log
   - Final portfolio value
 
-> 📊 **Backtest Output (Example)**  
 > Final Portfolio Value: `₹9656.65` (based on data availability)
 
 ---
